@@ -58,6 +58,17 @@ Customer Registration and Profile Management:
 
 4. Customers should be able to create accounts, update profiles, and manage payment preferences.
 
+Title: As a customer, I can create accounts
+
+Description: As a customer, I can create accounts so my information is saved with the restaraunt and I don't have to re-enter it every time I order.
+
+Title: As a customer, I can update my profile
+
+Description: As a customer, I can keep my information up to date, including my e-mail address or phone number
+
+Title: As a customer, I can manage payment preferences
+
+Description: As a customer, I can enter my credit card information and save it for repeated ordering, as well as update my payment information if I ever need to change it.
 
 5. A customer’s order history should be stored for repeat ordering.
 
