@@ -126,7 +126,19 @@ _________
 Reports and Analytics:
 
 16. Administrators and managers can generate reports about popular dishes, sales trends, order volume, and customer demographics.
-
+_________
+Title: As an administrator, I can keep track of sales data
+Description: As an administrator, I should be able to have sales data saved so it can be referred to later
+_________
+Title: As a manager, I can generate a sales report
+Description: As a manager, I can get sales data for a specific day in a readable format so I can see how many sales were made throughout the day
+_________
+Title: As a manager, I can can generate a sales trend report
+Description: As a manager, I can generate sales data to see sale numbers for each particular menu item and determine their popularity
+_________
+Title: As a manager, I can generate a customer demographic report
+Description: As a manager, I can see what menu items are being ordered by particular customer demographics such as age
+_________
 
 17. Insights help with decision-making around inventory, pricing, and promotions.
 
